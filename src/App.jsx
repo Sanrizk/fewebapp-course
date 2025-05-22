@@ -11,7 +11,7 @@ const DataTable = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-4 text-stone-700">
       <div className="bg-white shadow-lg rounded-2xl p-6 w-full max-w-4xl">
         <h1 className="text-2xl font-bold mb-4 text-center">Data Penduduk</h1>
         <div className="overflow-x-auto">
